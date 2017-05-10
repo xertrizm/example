@@ -1,5 +1,6 @@
 
 def name(msg):
+    // adding a different comment
     print(msg)
 
 
