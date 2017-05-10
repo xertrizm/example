@@ -1,5 +1,6 @@
 
 def name(msg):
+	// Print a message
     print(msg)
 
 
